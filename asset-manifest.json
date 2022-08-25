@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clone-udemy-react/static/css/main.2a428aeb.css",
+    "main.js": "/clone-udemy-react/static/js/main.6e6eba5b.js",
+    "index.html": "/clone-udemy-react/index.html",
+    "main.2a428aeb.css.map": "/clone-udemy-react/static/css/main.2a428aeb.css.map",
+    "main.6e6eba5b.js.map": "/clone-udemy-react/static/js/main.6e6eba5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a428aeb.css",
+    "static/js/main.6e6eba5b.js"
+  ]
+}
